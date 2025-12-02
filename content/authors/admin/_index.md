@@ -35,11 +35,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:penghui.ruan@connect.polyu.hk'
     label: E-mail Me
-  - icon: at-symbol
-    url: 'mailto:ruanpengh@gmail.com'
-    label: Alternative Email
-  - icon: brands/x
-    url: https://x.com/AlexAIResearch
   - icon: brands/github
     url: https://github.com/PR-Ryan/
   - icon: brands/linkedin
@@ -87,7 +82,7 @@ work:
     company_url: 'https://www.amazon.com/'
     company_logo: ''
     date_start: 2025-10-01
-    date_end: 2026-01-31
+    date_end: Present
     summary: |2-
       Researching and developing foundational models for high-quality movie dubbing with precise lip synchronization and video preservation.
 
@@ -143,40 +138,6 @@ skills:
         description: 'Gaussian Splatting, 3D Reconstruction'
         percent: 85
         icon: cube
-
-languages:
-  - name: English
-    percent: 90
-    note: 'TOEFL: 103, GRE: 320 + 3.5'
-  - name: Mandarin
-    percent: 100
-    note: 'Native'
-
-# Awards
-awards:
-  - title: NeurIPS Scholar Award
-    url: https://neurips.cc/
-    date: '2024-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for outstanding research contributions at NeurIPS 2024, Vancouver, Canada.
-
-  - title: First Prize Scholarship
-    url: https://www.sustech.edu.cn/
-    date: '2017-09-01'
-    awarder: Southern University of Science and Technology
-    icon: hero/academic-cap
-    summary: |
-      Awarded annually from 2017-2021 for outstanding academic performance.
-
-  - title: First Prize - National Physics Competition
-    url: ''
-    date: '2016-01-01'
-    awarder: China Association for Science and Technology
-    icon: hero/trophy
-    summary: |
-      First Prize in The 33rd National Middle School Physics Competition.
 ---
 
 Penghui Ruan is a fourth-year Ph.D. candidate at The Hong Kong Polytechnic University (PolyU), supervised by Prof. Jiannong Cao and Prof. Yuhui Shi at Southern University of Science and Technology (SUSTech). During his Ph.D. studies, he has closely collaborated with Dr. Pichao Wang from NVIDIA. He received his B.E. in Computer Science and Technology from SUSTech in 2021, where he graduated in the top 10% of his class. He was also an exchange student at the University of Wisconsin-Madison (2020).
