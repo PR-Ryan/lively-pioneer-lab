@@ -179,26 +179,4 @@ awards:
       First Prize in The 33rd National Middle School Physics Competition.
 ---
 
-## About Me
-
-Penghui Ruan is a fourth-year Ph.D. candidate at The Hong Kong Polytechnic University (PolyU), supervised by Prof. Jiannong Cao (Chair Professor, IEEE Fellow, CCF Fellow) and Prof. Yuhui Shi (Chair Professor, IEEE Fellow) at Southern University of Science and Technology (SUSTech). During his Ph.D. studies, he has closely collaborated with Dr. Pichao Wang from NVIDIA and researchers at IntelliFusion and Amazon.
-
-He received his B.E. in Computer Science and Technology from SUSTech in 2021, where he graduated in the top 10% of his class. He was also an exchange student at the University of Wisconsin-Madison (2020), achieving a GPA of 3.83/4.0.
-
-## Research Focus
-
-His research primarily focuses on **Video Generation** and **Computer Vision**, with particular emphasis on:
-
-- **Text-to-Video Generation**: Developing foundational models for high-quality video synthesis with fine-grained control
-- **Video Editing**: Creating general-purpose models for object manipulation, removal, addition, inpainting, and stylization
-- **3D Vision**: Exploring geometry-aware generation and 4D Gaussian Splatting
-- **Multimodal Learning**: Achieving precise alignment between visual and audio modalities
-
-His work has been published at top-tier venues including **NeurIPS** and is under review at **ICLR** and **CVPR**. He is particularly interested in building controllable, high-quality generative models that bridge the gap between research and real-world applications.
-
-## Recent Highlights
-
-- 🎬 **Amazon Internship (Oct 2025 - Jan 2026)**: Developing foundational models for movie dubbing with lip synchronization
-- 📊 **NeurIPS 2024**: Accepted paper on enhancing motion in text-to-video generation
-- 🎓 **NeurIPS Scholar Award**: Recognized for outstanding research contributions
-- 📝 **Multiple Submissions**: Papers under review at ICLR 2026 on video editing, object manipulation, and fine-grained T2V generation
+Penghui Ruan is a fourth-year Ph.D. candidate at The Hong Kong Polytechnic University (PolyU), supervised by Prof. Jiannong Cao and Prof. Yuhui Shi at Southern University of Science and Technology (SUSTech). During his Ph.D. studies, he has closely collaborated with Dr. Pichao Wang from NVIDIA. He received his B.E. in Computer Science and Technology from SUSTech in 2021, where he graduated in the top 10% of his class. He was also an exchange student at the University of Wisconsin-Madison (2020).
