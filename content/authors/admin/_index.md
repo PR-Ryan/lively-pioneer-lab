@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Penghui Ruan
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Penghui
+last_name: Ruan
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,150 +23,182 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: The Hong Kong Polytechnic University
+    url: https://www.polyu.edu.hk/en/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:penghui.ruan@connect.polyu.hk'
     label: E-mail Me
+  - icon: at-symbol
+    url: 'mailto:ruanpengh@gmail.com'
+    label: Alternative Email
   - icon: brands/x
     url: https://x.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/PR-Ryan/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/penghui-ruan-221469231/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=tTUajvgAAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0003-0238-299X
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Text-to-Video Generation
+  - Video Editing
+  - 3D Vision
+  - Diffusion Models
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD Computer Science
+    institution: The Hong Kong Polytechnic University
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2022-09-01
+    date_end: 2026-08-31
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+      Specializing in Text-to-Video Generation, Video Editing, and 3D Vision.
+      Advisors: Prof. Jiannong Cao and Prof. Yuhui Shi.
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+  - area: BS Computer Science and Technology
+    institution: Southern University of Science and Technology
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2017-09-01
+    date_end: 2021-06-30
     summary: |
-      GPA: 3.9/4.0
+      GPA: 3.74/4.00 (Top 10%)
 
-      Minored in Mathematics. President of AI Club.
+  - area: Exchange Student
+    institution: University of Wisconsin-Madison
+    icon: ""
+    date_start: 2020-01-01
+    date_end: 2020-09-30
+    summary: |
+      GPA: 3.83/4.0 (Top 5%)
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    icon: ''
-    date_start: 2020-01-01
-    date_end: ''
+  - position: Applied Scientist Intern
+    company_name: Amazon
+    company_url: 'https://www.amazon.com/'
+    company_logo: ''
+    date_start: 2025-10-01
+    date_end: 2026-01-31
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+      Researching and developing foundational models for high-quality movie dubbing with precise lip synchronization and video preservation.
+
+  - position: AIGC Research Intern
+    company_name: IntelliFusion
+    company_url: 'https://www.intellifusion.com/'
+    company_logo: ''
+    date_start: 2024-12-01
+    date_end: 2025-10-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      - Built and trained large-scale T2V/video-editing models with fine-grained control over content via textual conditioning and explicit 3D camera control.
+      - Spearheaded the creation of a large-scale, multi-task instructional video editing dataset to train general-purpose models for tasks including removal, addition, inpainting, and stylization.
+
+  - position: Software Engineer Intern
+    company_name: Tencent
+    company_url: 'https://www.tencent.com/'
+    company_logo: ''
+    date_start: 2021-04-01
+    date_end: 2021-06-30
+    summary: |
+      - Migrated sensitive word filtering service from HTTPS to TRPC, optimizing efficiency and enhancing security.
+      - Contributed to the Routing Service for video search, strengthening search functionality and improving user experience.
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
       - name: Python & PyTorch
-        description: ''
+        description: 'Deep Learning, Computer Vision'
         percent: 95
         icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
+      - name: Deep Learning Frameworks
+        description: 'PyTorch, DeepSpeed, Lightning, Accelerate'
+        percent: 95
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
+      - name: Programming
+        description: 'Python, C++, Java, SQL, JavaScript'
+        percent: 90
+        icon: code-bracket
+  - name: Research Areas
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
+      - name: Video Generation
+        description: 'Text-to-Video, Diffusion Models'
+        percent: 95
+        icon: film
+      - name: Video Editing
+        description: 'Object Manipulation, Inpainting'
         percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
+        icon: pencil
+      - name: 3D Vision
+        description: 'Gaussian Splatting, 3D Reconstruction'
+        percent: 85
+        icon: cube
 
 languages:
   - name: English
+    percent: 90
+    note: 'TOEFL: 103, GRE: 320 + 3.5'
+  - name: Mandarin
     percent: 100
-  - name: Spanish
-    percent: 50
+    note: 'Native'
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# Awards
 awards:
-  - title: Best Paper Award
+  - title: NeurIPS Scholar Award
     url: https://neurips.cc/
-    date: '2022-12-01'
+    date: '2024-12-01'
     awarder: NeurIPS
     icon: hero/trophy
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
+      Awarded for outstanding research contributions at NeurIPS 2024, Vancouver, Canada.
+
+  - title: First Prize Scholarship
+    url: https://www.sustech.edu.cn/
+    date: '2017-09-01'
+    awarder: Southern University of Science and Technology
     icon: hero/academic-cap
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Awarded annually from 2017-2021 for outstanding academic performance.
+
+  - title: First Prize - National Physics Competition
+    url: ''
+    date: '2016-01-01'
+    awarder: China Association for Science and Technology
+    icon: hero/trophy
+    summary: |
+      First Prize in The 33rd National Middle School Physics Competition.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+## About Me
+
+Penghui Ruan is a fourth-year Ph.D. candidate at The Hong Kong Polytechnic University (PolyU), supervised by Prof. Jiannong Cao (Chair Professor, IEEE Fellow, CCF Fellow) and Prof. Yuhui Shi (Chair Professor, IEEE Fellow) at Southern University of Science and Technology (SUSTech). During his Ph.D. studies, he has closely collaborated with Dr. Pichao Wang from NVIDIA and researchers at IntelliFusion and Amazon.
+
+He received his B.E. in Computer Science and Technology from SUSTech in 2021, where he graduated in the top 10% of his class. He was also an exchange student at the University of Wisconsin-Madison (2020), achieving a GPA of 3.83/4.0.
+
+## Research Focus
+
+His research primarily focuses on **Video Generation** and **Computer Vision**, with particular emphasis on:
+
+- **Text-to-Video Generation**: Developing foundational models for high-quality video synthesis with fine-grained control
+- **Video Editing**: Creating general-purpose models for object manipulation, removal, addition, inpainting, and stylization
+- **3D Vision**: Exploring geometry-aware generation and 4D Gaussian Splatting
+- **Multimodal Learning**: Achieving precise alignment between visual and audio modalities
+
+His work has been published at top-tier venues including **NeurIPS** and is under review at **ICLR** and **CVPR**. He is particularly interested in building controllable, high-quality generative models that bridge the gap between research and real-world applications.
+
+## Recent Highlights
+
+- 🎬 **Amazon Internship (Oct 2025 - Jan 2026)**: Developing foundational models for movie dubbing with lip synchronization
+- 📊 **NeurIPS 2024**: Accepted paper on enhancing motion in text-to-video generation
+- 🎓 **NeurIPS Scholar Award**: Recognized for outstanding research contributions
+- 📝 **Multiple Submissions**: Papers under review at ICLR 2026 on video editing, object manipulation, and fine-grained T2V generation
